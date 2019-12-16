@@ -1,0 +1,22 @@
+@import '~antd/dist/antd.css';
+
+Dropdown.user {
+  clear: right;
+}
+
+div.left {
+  float: left;
+  width: 8%; /* three boxes (use 25% for four, and 50% for two, etc) */
+}
+
+div.right {
+  float: right;
+  right: 0px;
+}
+
+.ant-layout-header {
+    height: 64px;
+    padding: 0 30px;
+    line-height: 64px;
+    background: #001529;
+}
