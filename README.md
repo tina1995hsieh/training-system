@@ -9,7 +9,6 @@
     - Shengxuan Qiu(4321458, shq14@pitt.edu)
     - Cai-Cian Song(4301228, cas386@pitt.edu)
 - Deploy URL: https://staff-training-system-deploy.herokuapp.com/
-- Github repo: https://github.com/lil131/staff-training-system/tree/mern/eden
 
 - Account for test
 ```
